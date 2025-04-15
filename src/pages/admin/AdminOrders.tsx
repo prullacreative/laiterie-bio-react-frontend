@@ -29,7 +29,7 @@ export function AdminOrders() {
   return (
     <div className="flex min-h-screen bg-gray-50">
       <AdminSidebar />
-      <main className="flex-1 p-8">
+      <main className="flex-1 p-8 pt-20 max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold mb-6 text-purple-700">Commandes</h1>
 
         <input
