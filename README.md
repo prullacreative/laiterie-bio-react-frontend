@@ -4,7 +4,7 @@ Ce projet est une application web pour une laiterie bio. Il offre des fonctionna
 
 **Marque** : PrullaCreative  
 **Conceptrice et propriétaire** : Prudencia (Prulla) Mian
-**Mail** : PrullaCreative@gmail.com
+**Mail** : prullacreative@gmail.com
   
 
 ## Fonctionnalités
